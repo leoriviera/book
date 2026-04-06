@@ -84,7 +84,7 @@ book:
         - C32_civil-engineering.qmd
         - C33_coding-anxiety.qmd
 #        - C34_three-stars-one-wish.qmd
-#        - C35_action-feedback-plan.qmd
+        - C35_action-feedback-plan.qmd
         - C36_pair-programming-across-disciplines.qmd
         - C38_skills-based-assessment.qmd
         - 99-bibliography.qmd
